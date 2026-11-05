@@ -1,0 +1,11 @@
+name: cfd
+channels:
+  - conda-forge
+dependencies:
+  - pytest
+  - jupyter
+  - matplotlib
+  - scipy
+  - python=3.12
+  - numpy
+prefix: C:\mini_forge3\envs\cfd
